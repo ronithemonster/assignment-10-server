@@ -1,0 +1,340 @@
+[
+    {
+      "id": 1,
+      "chefPicture": "https://i.lezzet.com.tr/images-xxlarge-secondary/2-michelin-yildizi-alan-restoran-turk-fatih-tutak-kimdir-iste-turk-fatih-tutakin-monusu-16c9e97f-17fc-42ae-8ada-41ef7027ed82.jpg",
+      "chefName": "John Smith",
+      "yearsOfExperience": 10,
+        "description" : "Brenda Steele is a private chef and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ",
+      "numRecipes": 50,
+      "likes": 1000,
+
+
+      "recipe":[
+        {
+          "recipeName": "Döner",
+            "recipeId": 1,
+          "ingredients": [
+            "1.crispy crust ",
+            "2.ground beef ",
+            "3.tomatoes ",
+            "4.onion ",
+            "5.garlic "
+          ],
+          "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat.  3. Then Take it and enjoy ",
+          "rating": 4.8
+        },{
+
+          "recipeName": "Kebab",
+          "recipeId": 2,
+          "ingredients": [
+            "1.sauce  ",
+            "2.red pepper",
+            "3.garlic ",
+            "4.oil ",
+            "5.mint "
+          ],
+          "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat.  3. Then Take it and enjoy ",
+          "rating": 4.9
+
+        },
+        {
+          "recipeName": "Lahmacun",
+          "recipeId": 3,
+          "ingredients": [
+            "1.warm water ",
+            "2.all-purpose flour ",
+            "3.tomatoes ",
+            "4.teaspoons kosher salt ",
+            "5.instant dry yeast "
+          ],
+          "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat.  3. Then Take it and enjoy ",
+          "rating": 4.2
+        }
+        ,
+        {
+          "recipeName": "Kadınbudu Köfte",
+          "recipeId": 1,
+          "ingredients": [
+            "1.ground beef ",
+            "2.eggs ",
+            "3.Salt, ",
+            "4.finely chopped parsley ",
+            "5.ground black pepper "
+          ],
+          "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat.  3. Then Take it and enjoy ",
+          "rating": 4
+        }
+      ]
+      
+      }
+  ,
+    {
+      "id": 2,
+      "chefPicture": "https://www.shutterstock.com/image-photo/istanbul-turkey-06272014-arda-turkish-600w-1678580476.jpg",
+      "chefName": "Jane Doe",
+      "yearsOfExperience": 5,
+      "numRecipes": 20, 
+       "description" : "Brenda Steele is a private chef and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ",
+      "likes": 500,
+      "recipe":[
+        {
+          "recipeName": "Döner",
+            "recipeId": 1,
+          "ingredients": [
+            "1.crispy crust ",
+            "2.ground beef ",
+            "3.tomatoes ",
+            "4.onion ",
+            "5.garlic "
+          ],
+          "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat.  3. Then Take it and enjoy ",
+          "rating": 4.8
+        },{
+
+          "recipeName": "Kebab",
+          "recipeId": 2,
+          "ingredients": [
+            "1.sauce  ",
+            "2.red pepper",
+            "3.garlic ",
+            "4.oil ",
+            "5.mint "
+          ],
+          "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat.  3. Then Take it and enjoy ",
+          "rating": 4.9
+
+        },
+        {
+          "recipeName": "Lahmacun",
+          "recipeId": 3,
+          "ingredients": [
+            "1.warm water ",
+            "2.all-purpose flour ",
+            "3.tomatoes ",
+            "4.teaspoons kosher salt ",
+            "5.instant dry yeast "
+          ],
+          "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat.  3. Then Take it and enjoy ",
+          "rating": 4.2
+        }
+        ,
+        {
+          "recipeName": "Kadınbudu Köfte",
+          "recipeId": 1,
+          "ingredients": [
+            "1.ground beef ",
+            "2.eggs ",
+            "3.Salt, ",
+            "4.finely chopped parsley ",
+            "5.ground black pepper "
+          ],
+          "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat.  3. Then Take it and enjoy ",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chefPicture": "https://www.theworlds50best.com/discovery/filestore/jpg/Mikla-Istanbul-Turkey-01.jpg",
+      "chefName": "Bob Johnson",
+      "description" : "Brenda Steele is a private chef and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ",
+      "yearsOfExperience": 15,
+      "numRecipes": 100,
+      "likes": 2000,
+      "recipe":[
+        {
+          "recipeName": "Döner",
+            "recipeId": 1,
+          "ingredients": [
+            "1.crispy crust ",
+            "2.ground beef ",
+            "3.tomatoes ",
+            "4.onion ",
+            "5.garlic "
+          ],
+          "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat.  3. Then Take it and enjoy ",
+          "rating": 4.8
+        },{
+
+          "recipeName": "Kebab",
+          "recipeId": 2,
+          "ingredients": [
+            "1.sauce  ",
+            "2.red pepper",
+            "3.garlic ",
+            "4.oil ",
+            "5.mint "
+          ],
+          "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat.  3. Then Take it and enjoy ",
+          "rating": 4.9
+
+        },
+        {
+          "recipeName": "Lahmacun",
+          "recipeId": 3,
+          "ingredients": [
+            "1.warm water ",
+            "2.all-purpose flour ",
+            "3.tomatoes ",
+            "4.teaspoons kosher salt ",
+            "5.instant dry yeast "
+          ],
+          "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat.  3. Then Take it and enjoy ",
+          "rating": 4.2
+        }
+        ,
+        {
+          "recipeName": "Kadınbudu Köfte",
+          "recipeId": 1,
+          "ingredients": [
+            "1.ground beef ",
+            "2.eggs ",
+            "3.Salt, ",
+            "4.finely chopped parsley ",
+            "5.ground black pepper "
+          ],
+          "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat.  3. Then Take it and enjoy ",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id":4,
+      "chefPicture": "https://media.gq.com/photos/5ad52641eb75a50913fd96ad/4:3/w_846,h_634,c_limit/Real-Life-Diet-Salt-Bae-April-2018-041618.jpg",
+      "chefName": "Sara Lee",
+      "yearsOfExperience": 8,
+      "numRecipes": 30, 
+       "description" : "Brenda Steele is a private chef and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ",
+      "likes": 750
+    },
+    {
+      "id": 5,
+      "chefPicture":"https://idsb.tmgrup.com.tr/ly/uploads/images/2021/09/07/142488.jpg",
+      "chefName": "David Kim",
+      "yearsOfExperience": 20,
+      "numRecipes": 200,
+        "description" : "Brenda Steele is a private chef and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ",
+      "likes": 5000,
+      "recipe":[
+        {
+          "recipeName": "Döner",
+            "recipeId": 1,
+          "ingredients": [
+            "1.crispy crust ",
+            "2.ground beef ",
+            "3.tomatoes ",
+            "4.onion ",
+            "5.garlic "
+          ],
+          "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat.  3. Then Take it and enjoy ",
+          "rating": 4.8
+        },{
+
+          "recipeName": "Kebab",
+          "recipeId": 2,
+          "ingredients": [
+            "1.sauce  ",
+            "2.red pepper",
+            "3.garlic ",
+            "4.oil ",
+            "5.mint "
+          ],
+          "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat.  3. Then Take it and enjoy ",
+          "rating": 4.9
+
+        },
+        {
+          "recipeName": "Lahmacun",
+          "recipeId": 3,
+          "ingredients": [
+            "1.warm water ",
+            "2.all-purpose flour ",
+            "3.tomatoes ",
+            "4.teaspoons kosher salt ",
+            "5.instant dry yeast "
+          ],
+          "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat.  3. Then Take it and enjoy ",
+          "rating": 4.2
+        }
+        ,
+        {
+          "recipeName": "Kadınbudu Köfte",
+          "recipeId": 1,
+          "ingredients": [
+            "1.ground beef ",
+            "2.eggs ",
+            "3.Salt, ",
+            "4.finely chopped parsley ",
+            "5.ground black pepper "
+          ],
+          "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat.  3. Then Take it and enjoy ",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "chefPicture": "https://t1.thpservices.com/previewimage/gallil/308701d3b100f442f3738acb34c04558/pah-127821298.jpg",
+      "chefName": "Amy Chen",
+      "yearsOfExperience": 12, 
+       "description" : "Brenda Steele is a private chef and recipe writer, who specializes in menu development. Her passion is creating vibrant, delicious and nourishing meals using high quality local and seasonal ",
+      "numRecipes": 75,
+      "likes":1500,
+      "recipe":[
+        {
+          "recipeName": "Döner",
+            "recipeId": 1,
+          "ingredients": [
+            "1.crispy crust ",
+            "2.ground beef ",
+            "3.tomatoes ",
+            "4.onion ",
+            "5.garlic "
+          ],
+          "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat.  3. Then Take it and enjoy ",
+          "rating": 4.8
+        },{
+
+          "recipeName": "Kebab",
+          "recipeId": 2,
+          "ingredients": [
+            "1.sauce  ",
+            "2.red pepper",
+            "3.garlic ",
+            "4.oil ",
+            "5.mint "
+          ],
+          "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat.  3. Then Take it and enjoy ",
+          "rating": 4.9
+
+        },
+        {
+          "recipeName": "Lahmacun",
+          "recipeId": 3,
+          "ingredients": [
+            "1.warm water ",
+            "2.all-purpose flour ",
+            "3.tomatoes ",
+            "4.teaspoons kosher salt ",
+            "5.instant dry yeast "
+          ],
+          "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat.  3. Then Take it and enjoy ",
+          "rating": 4.2
+        }
+        ,
+        {
+          "recipeName": "Kadınbudu Köfte",
+          "recipeId": 1,
+          "ingredients": [
+            "1.ground beef ",
+            "2.eggs ",
+            "3.Salt, ",
+            "4.finely chopped parsley ",
+            "5.ground black pepper "
+          ],
+          "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat.  3. Then Take it and enjoy ",
+          "rating": 4
+        }
+      ]
+    }
+]
